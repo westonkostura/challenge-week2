@@ -19,7 +19,7 @@ header {
 
 }
 .hero {
-    background-image: url("/Pictures/triangles-1430105_640.webp");
+    background-image: url("./Pictures/triangles-1430105_640.webp");
     height: 300px;
     width: 100%;
     background-position: center;

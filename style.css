@@ -43,11 +43,7 @@ header {
     color: red;
     font-weight:bolder;
 }
-.hero-picture {
-    /* position: absolute; */
-    /* bottom: 10%; */
-    /* right: 43%; */
-}
+
 .hero-picture img {
     border-radius: 100%;
     height: 250px;
@@ -176,7 +172,7 @@ footer {
     padding: 25px;
 }
 .project-1 {
-    background-image: url("/Pictures/Project-1.png");
+    background-image: url("./Pictures/Project-1.png");
     background-size: contain;
 }
 
@@ -186,5 +182,8 @@ footer {
     }
     .block-2, .block-3 {
         border-left: none;
+    }
+    .mainnav {
+        flex-direction: column;
     }
 }

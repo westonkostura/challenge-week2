@@ -2,30 +2,26 @@
 
 ## Description
 
-This project is a landing site for my portfolio page. The reason for this project is for employers and others to see what work I have done, all in one place to see everything. This project taught me how to schedule with tutors, and excel with html and css.
+This project is a landing site for my portfolio page. The reason for this project is for employers and others to see what work I have done, all in one place to see everything. This project taught me how to schedule with tutors and excel with HTML and CSS.
 
 
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Use of the Portfolio website is to read about me, the author, see the work that I have completed and also links to contact me. In the future, I will add additional projects and my uploaded resume.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](./assets/screenshot1.png)
-![alt text](./assets/screenshot2.png?raw=true "Screenshot 2")
+![Alt text](/challenge-week2/Assets/Screenshot1.png)
+![Alt text](/challenge-week2/Assets/Screenshot2.png)
 
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+I followed examples of HTML and CSS everywhere from our ASU-activities that we cover in class, with also using w3schools and Stack Overflow. 
+I also received help from a tutor through the boot camp spot with Scott Everett, who helped me clean up the page and add key requirements for the project.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+No license
+MIT License
 
 ---

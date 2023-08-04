@@ -15,8 +15,6 @@ header {
     overflow: auto;
     padding: 10px 0px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-
 }
 .hero {
     background-image: url("./Pictures/triangles.png");
@@ -168,9 +166,6 @@ img {
 }
 
 .contact a {
-    /* margin: 30px; */
-    /* padding-top: 500px; */
-    /* padding: 30px; */
     font-size: 20px;
     color: var(--main-dark);
 }

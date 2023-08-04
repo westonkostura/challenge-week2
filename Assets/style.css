@@ -182,11 +182,11 @@ footer {
     padding: 25px;
 }
 .project-1 {
-    background-image: url("./Pictures/Project-1.png");
+    background-image: url("../Pictures/Project-1.png");
     background-size: contain;
 }
 .project-2 {
-    background-image: url("./Pictures/GroupProject1-recipeFinder.jpg");
+    background-image: url("../Pictures/GroupProject1-recipeFinder.jpg");
     background-size: contain;
 }
 .project-3 {

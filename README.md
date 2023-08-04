@@ -24,7 +24,8 @@ I also received help from a tutor through the boot camp spot with Scott Everett,
 No license
 MIT License
 
----
 ## Deployed Application
 
 https://westonkostura.github.io/challenge-week2-MyPortfolio/
+
+---

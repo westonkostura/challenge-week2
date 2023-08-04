@@ -152,6 +152,21 @@ img {
   outline-offset: -2px;
   transition: all 0.5s ease-in-out;
 }
+
+.content-block-starter {
+    display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  height: 330px;
+  width: 500px;
+  padding: 10px;
+  color: black;
+  outline: 2px dashed black;
+  outline-offset: -2px;
+  transition: all 0.5s ease-in-out;
+}
+
 .contact a {
     /* margin: 30px; */
     /* padding-top: 500px; */
@@ -175,15 +190,30 @@ footer {
     background-image: url("./Pictures/Project-1.png");
     background-size: contain;
 }
+.project-2 {
+    background-image: url("./Pictures/GroupProject1-recipeFinder.jpg");
+    background-size: contain;
+}
+.project-3 {
+    background-image: url("");
+    background-size: contain;
+}
 
 @media screen and (max-width: 768px) {
     .container {
         flex-direction: column;
+        margin: 20px;
+        margin-right: 30px;
     }
     .block-2, .block-3 {
         border-left: none;
     }
     .mainnav {
+        flex-wrap: wrap;
         flex-direction: column;
+    }
+    .content-block {
+        justify-content: center;
+        align-items: center;
     }
 }
